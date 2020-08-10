@@ -151,7 +151,7 @@ Technologies and tools that I am learning at the moment:
 ---
 #### ⚡ Hobbies
 
-- 🎮 RPG PC games(GT Starkasty);
+- 🎮 RPG, FPS PC games;
 - 🎧 Listening to good music;
 - 🎬 Watch Movies and TV Shows;
 

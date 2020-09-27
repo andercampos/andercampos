@@ -15,14 +15,14 @@
 </p>
 </br>
 <h6 align="center">
-    My name is Anderson Leite. I'm 25 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and full-stack developer. Enthusiast of technology, games, and nerdy world.
+    My name is Anderson Campos. I'm 25 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and full-stack developer. Enthusiast of technology, games, and nerdy world.
 </h6>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/andercampos/">
         <img 
             alt="Linkedin Anderson Campos" 
-            src="https://img.shields.io/badge/-Anderson%20Leite-%230077b5?style=flat-square&logo=linkedin">
+            src="https://img.shields.io/badge/-Anderson%20Campos-%230077b5?style=flat-square&logo=linkedin">
     </a>
     <a href="mailto:anderleitec@gmail.com">
         <img 
@@ -35,13 +35,13 @@
 ### 🛠 Technologies
 
 <p align="center">
-Technologies and tools that I am learning at the moment:
+Technologies and tools that i have experience:
 
 <p align="center">
-    <a href="https://www.javascript.com/">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-javascript.svg" 
-            alt="logo JavaScript"
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-html5.svg" 
+            alt="logo HTML5"
             width="50px"
             style="border-radius: 8px;">
     </a>
@@ -52,10 +52,16 @@ Technologies and tools that I am learning at the moment:
             width="50px"
             style="border-radius: 8px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+ </p>
+
+<p align="center">
+Technologies and tools that i am learning at the moment:
+
+<p align="center">
+    <a href="https://www.javascript.com/">
         <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-html5.svg" 
-            alt="logo HTML5"
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-javascript.svg" 
+            alt="logo JavaScript"
             width="50px"
             style="border-radius: 8px;">
     </a>
@@ -65,6 +71,20 @@ Technologies and tools that I am learning at the moment:
             alt="logo Typescript"
             width="56px">
     </a>
+    <a href="https://nodejs.org/en/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-nodejs.svg" 
+            alt="logo Node.js"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
+    <a href="https://expressjs.com/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-express2.png" 
+            alt="logo express"
+            width="100px">
+    </a>
+    </br>
     <a href="https://reactjs.org/">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
@@ -78,19 +98,6 @@ Technologies and tools that I am learning at the moment:
             alt="logo React native"
             width="50px"
             style="border-radius: 8px;">
-    </a> -->
-    <a href="https://nodejs.org/en/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-nodejs.svg" 
-            alt="logo Node.js"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://expressjs.com/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-express2.png" 
-            alt="logo express"
-            width="100px">
     </a>
     </br>
     <a href="https://git-scm.com/">
@@ -130,7 +137,6 @@ Technologies and tools that I am learning at the moment:
 
 - Searching a job like a Frontend, Backend or FullStack developer;
 - Collaborate in a project;
-- Freelance projects;
 - To grow with the support of the community.
 
 

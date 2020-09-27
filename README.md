@@ -84,7 +84,6 @@ Technologies and tools that i am learning at the moment:
             alt="logo express"
             width="100px">
     </a>
-    </br>
     <a href="https://reactjs.org/">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
@@ -122,12 +121,6 @@ Technologies and tools that i am learning at the moment:
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-gitHub2.svg" 
             alt="logo Github"
-            width="50px">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-vscode.svg" 
-            alt="logo Vscode"
             width="50px">
     </a>
 </p>

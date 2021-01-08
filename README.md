@@ -6,7 +6,7 @@
     <a href="https://app.rocketseat.com.br/me/andercampos" target="_blank">
         <img 
             style="border-radius: 50%;" 
-            src="https://avatars0.githubusercontent.com/u/51854580?s=460&u=7b613239d54bd4788318c525b601289ae8810305&v=4" 
+            src="https://avatars3.githubusercontent.com/u/51854580?s=460&u=1a1114437e6cd9f37bd2d83e868f3e28a008f9fd&v=4" 
             width="120px;" 
             alt="Foto">       
         <br/>
@@ -15,7 +15,7 @@
 </p>
 </br>
 <h6 align="center">
-    My name is Anderson Campos. I'm 25 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and full-stack developer. Enthusiast of technology, games, and nerdy world.
+    My name is Anderson Leite de Campos. I'm 25 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and full-stack developer. Enthusiast of technology, games, and nerdy world.
 </h6>
 
 <p align="center">
@@ -38,6 +38,19 @@
 Technologies and tools that i have experience:
 
 <p align="center">
+     <a href="https://www.javascript.com/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-javascript.svg" 
+            alt="logo JavaScript"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-typescript.png"
+            alt="logo Typescript"
+            width="56px">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-html5.svg" 
@@ -52,39 +65,7 @@ Technologies and tools that i have experience:
             width="50px"
             style="border-radius: 8px;">
     </a>
- </p>
-
-<p align="center">
-Technologies and tools that i am learning at the moment:
-
-<p align="center">
-    <a href="https://www.javascript.com/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-javascript.svg" 
-            alt="logo JavaScript"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-typescript.png"
-            alt="logo Typescript"
-            width="56px">
-    </a>
-    <a href="https://nodejs.org/en/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-nodejs.svg" 
-            alt="logo Node.js"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://expressjs.com/">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-express2.png" 
-            alt="logo express"
-            width="100px">
-    </a>
-    <a href="https://reactjs.org/">
+     <a href="https://reactjs.org/">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
             alt="logo React"
@@ -97,6 +78,25 @@ Technologies and tools that i am learning at the moment:
             alt="logo React native"
             width="50px"
             style="border-radius: 8px;">
+    </a>
+ </p>
+
+<p align="center">
+Technologies and tools that i am learning at the moment:
+
+<p align="center">
+    <a href="https://nodejs.org/en/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-nodejs.svg" 
+            alt="logo Node.js"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
+    <a href="https://expressjs.com/">
+        <img 
+            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-express2.png" 
+            alt="logo express"
+            width="100px">
     </a>
     </br>
     <a href="https://git-scm.com/">
@@ -126,16 +126,6 @@ Technologies and tools that i am learning at the moment:
 </p>
 
 ---
-#### 🚧 What I'm looking for
-
-- Searching a job like a Frontend, Backend or FullStack developer;
-- Collaborate in a project;
-- To grow with the support of the community.
-
-
-
-
----
 #### 💬 Languages(Learning)
 
 - English - Intermediate;
@@ -143,7 +133,7 @@ Technologies and tools that i am learning at the moment:
 ---
 #### ⚡ Hobbies
 
-- 🎮 RPG, FPS PC games;
+- 🎮 RPG, FPS, MOBA games;
 - 🎧 Listening to good music;
 - 🎬 Watch Movies and TV Shows;
 

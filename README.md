@@ -37,7 +37,7 @@
 Technologies and tools that I have experience:
 
 <p align="center">
-     <a title="Javascript" href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+    <a title="Javascript" href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
             width="40">
@@ -47,8 +47,7 @@ Technologies and tools that I have experience:
             src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
             width="40">
     </a>
-    </br>
-     <a title="React" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <a title="React" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
             width="40">
@@ -63,7 +62,6 @@ Technologies and tools that I have experience:
             src="https://nodejs.org/static/images/logo.svg" 
             width="50">
     </a>
-    </br>
     <a title="Postgres" href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
       <img 
         src="https://www.postgresql.org/media/img/about/press/elephant.png"        
@@ -76,15 +74,14 @@ Technologies and tools that I am learning at the moment:
 
 <p align="center">
     <a title="Jest" href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" width="30">
-  </a>
-  </br>
-   <a title="Ruby on Rails" href="https://rubyonrails.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://rubyonrails.org/images/rails-logo.svg" width="50">
-  </a>
-  <a title="Elixir" href="https://elixir-lang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://elixir-lang.org/images/logo/logo.png" width="50">
-  </a>
+        <img src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" width="30">
+    </a>
+    <a title="Ruby on Rails" href="https://rubyonrails.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://rubyonrails.org/images/rails-logo.svg" width="50">
+    </a>
+    <a title="Elixir" href="https://elixir-lang.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://elixir-lang.org/images/logo/logo.png" width="50">
+    </a>
 </p>
 
 ---

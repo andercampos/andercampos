@@ -1,4 +1,4 @@
-## What's up Dev? How are you? 👋
+## Hello, What's up? How are you? 👋
 
 ### :thinking: Who am I?
 

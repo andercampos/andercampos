@@ -5,7 +5,6 @@
 <p align="center">
     <a title="Rocketseat" href="https://app.rocketseat.com.br/me/andercampos" target="_blank" rel="noopener noreferrer">
         <img 
-            style="border-radius: 50%;" 
             src="https://avatars3.githubusercontent.com/u/51854580?s=460&u=1a1114437e6cd9f37bd2d83e868f3e28a008f9fd&v=4" 
             width="120">       
         <br/>
@@ -41,33 +40,28 @@ Technologies and tools that I have experience:
      <a title="Javascript" href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
-            width="40"
-            style="border-radius: 8px">
+            width="40">
     </a>
     <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-            width="40"
-            style="border-radius: 8px">
+            width="40">
     </a>
     </br>
      <a title="React" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
-            width="40"
-            style="border-radius: 16px;">
+            width="40">
     </a>
     <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react-native.svg"
-            width="40"
-            style="border-radius: 16px">
+            width="40">
     </a>
     <a title="Node.js" href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
         <img 
             src="https://nodejs.org/static/images/logo.svg" 
-            width="50"
-            style="border-radius: 8px; background-color: #0d1117; padding: 4px 8px">
+            width="50">
     </a>
     </br>
     <a title="Postgres" href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">

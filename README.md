@@ -95,7 +95,7 @@ Technologies and tools that I am learning at the moment:
 #### ⚡ Hobbies
 
 - 🎮 RPG, FPS, MOBA games;
-- 🎧 Listening to good music;
+- 🎧 Listening to music;
 - 🎬 Watch Movies and TV Shows;
 
 ---

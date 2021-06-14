@@ -100,8 +100,8 @@ Technologies and tools that I am learning at the moment:
 
 ---
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andercampos&show_icons=true&theme=dracula" width="500">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andercampos" width="208">
+    <img src="https://github-readme-stats.vercel.app/api?username=andercampos&show_icons=true&theme=react" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andercampos&layout=compact&theme=react" width="420">
 </p>
     
 ---

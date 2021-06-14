@@ -99,3 +99,9 @@ Technologies and tools that I am learning at the moment:
 - 🎬 Watch Movies and TV Shows;
 
 ---
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=andercampos&show_icons=true&theme=dracula" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andercampos" width="208">
+</p>
+    
+---

@@ -31,10 +31,7 @@
 
 ---
 
-### 🛠 Technologies
-
-<p align="center">
-Languages and tools:
+### 🛠 Languages and Tools
 
 <p align="center">  
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -80,7 +77,7 @@ Languages and tools:
 
 ---
 
-#### 💬 Languages(Learning)
+#### 💬 Languages
 
 - English - Advanced;
 
@@ -89,8 +86,7 @@ Languages and tools:
 #### ⚡ Hobbies
 
 - 🎮 RPG, FPS, MOBA games;
-- 🎧 Listening to music;
-- 🎬 Watch Movies and TV Shows;
+- 🎬 Movies and TV Shows;
 
 ---
 <p align="center">

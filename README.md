@@ -13,7 +13,7 @@
 </p>
 </br>
 <h6 align="center">
-    My name is Anderson Leite de Campos. I'm 27 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and currently working at Pipefy as Software Engineer. Enthusiast of technology, games, and nerdy world.
+    My name is Anderson Leite de Campos. I'm 27 years old and I'm from Santo Antônio de Posse, SP - Brazil. I am a student of computer science degree and currently working at Pipefy as a Frontend Engineer. Enthusiast of technology, games, and nerdy world.
 </h6>
 
 <p align="center">
@@ -34,61 +34,55 @@
 ### 🛠 Technologies
 
 <p align="center">
-Technologies and tools that I have experience:
+Languages and tools:
 
-<p align="center">
-    <a title="Javascript" href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
-            width="40">
+<p align="center">  
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
-    <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-            width="40">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <a title="React" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react.svg"
-            width="40">
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a>
-    <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://github.com/andercampos/andercampos/blob/master/assets/icon-react-native.svg"
-            width="40">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
-    <a title="Node.js" href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://nodejs.org/static/images/logo.svg" 
-            width="50">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-    <a title="Postgres" href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="https://www.postgresql.org/media/img/about/press/elephant.png"        
-        width="40">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"         height="40"/> 
+    </a> 
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+    </a>  
  </p>
-
-<p align="center">
-Technologies and tools that I am learning at the moment:
-
-<p align="center">
-    <a title="Jest" href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" width="30">
-    </a>
-    <a title="Ruby on Rails" href="https://rubyonrails.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://rubyonrails.org/images/rails-logo.svg" width="50">
-    </a>
-    <a title="Elixir" href="https://elixir-lang.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://elixir-lang.org/images/logo/logo.png" width="50">
-    </a>
-</p>
 
 ---
 
 #### 💬 Languages(Learning)
 
-- English - Intermediate;
+- English - Advanced;
 
 ---
 

@@ -1,97 +1,62 @@
-## Hello, What's up? How are you? 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### :thinking: Who am I?
+###
 
-<p align="center">
-    <a title="Rocketseat" href="https://app.rocketseat.com.br/me/andercampos" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://avatars3.githubusercontent.com/u/51854580?s=460&u=1a1114437e6cd9f37bd2d83e868f3e28a008f9fd&v=4" 
-            width="120">       
-        <br/>
-        <sub><b>Anderson Campos  🚀</b></sub>
-    </a>
-</p>
-</br>
-<h6 align="center">
-    My name is Anderson Leite de Campos. I'm 29 years old and I'm from Serra Negra, SP - Brazil. I am a student of computer science degree and currently working at Pipefy as a Frontend Engineer. Enthusiast of technology, games, and nerdy world.
-</h6>
+<p align="left">My name is Anderson Campos and I'm a Frontend Engineer, from Serra Negra, SP - Brazil. Currently working at <strong>Pipefy</strong>.</p>
 
-<p align="center">
-    <a title="Linkedin" href="https://www.linkedin.com/in/andercampos/" target="_blank" rel="noopener noreferrer">
-        <img 
-            alt="Linkedin Anderson Campos" 
-            src="https://img.shields.io/badge/-Anderson%20Campos-%230077b5?style=flat-square&logo=linkedin">
-    </a>
-    <a title="Mail me" href="mailto:anderleitec@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img 
-            alt="gmail Anderson Campos" 
-            src="https://img.shields.io/badge/-anderleitec@gmail.com-%23c14438?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-</p>
+###
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/andercampos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/wicked4334" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-### 🛠 Languages and Tools
+###
 
-<p align="center">  
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"         height="40"/> 
-    </a> 
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-    </a>  
- </p>
+<h2 align="left">About me</h2>
 
----
+###
 
-#### 💬 Languages
+<p align="left">✨ Creating bugs since my first <code>&lt;div&gt;</code>.<br>📚 Currently pursuing a postgrad in Software Engineering with Applied AI.<br>🎯 Goals: Build scalable applications, integrate AI into everyday products, and continuously level up my skills.<br>🎲 Fun facts: When I'm not coding, I'm probably at the gym, training Muay Thai, grinding in MMOs and RPGs, or exploring my passion for cars.<br>☕ Fuel: I run on strong coffee during the day and appreciate a good beer in my free time.</p>
 
-- English - Advanced;
+###
 
----
+<h2 align="left">🧑‍💻 I code with</h2>
 
-#### ⚡ Hobbies
+###
 
-- 🎮 RPG, FPS, MOBA games;
-- 🎬 Movies and TV Shows;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="40" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
----
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andercampos&&count_private=true&show_icons=true&theme=react" width="500"> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andercampos&layout=compact&theme=react" width="500">
-</p>
-    
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andercampos/andercampos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andercampos/andercampos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andercampos/andercampos/output/pacman-contribution-graph.svg">
+</picture>
+
+###
